@@ -1,6 +1,0 @@
-# Digit Classifier Android sample
-
-
-
-
-
